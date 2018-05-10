@@ -1,3 +1,5 @@
+//This Script was created with javascript
+
 const {Builder, By, until} = require('selenium-webdriver');
 let driver = new Builder()
     .forBrowser('chrome')
